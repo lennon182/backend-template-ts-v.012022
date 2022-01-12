@@ -1,0 +1,19 @@
+html {
+  background-color: #212121;
+  color: #ffffff !important;
+}
+
+.user-logo {
+  width: 5rem;
+  border-radius: 50%;
+  margin: 1rem;
+}
+
+.repo-logo {
+  width: 1.5rem;
+  margin: 1rem;
+}
+
+.white-color {
+  color: #ffffff;
+}
